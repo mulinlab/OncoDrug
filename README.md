@@ -6,11 +6,15 @@ Combinations of cancer drugs have the potential to overcome resistance, improve 
 <img src="https://github.com/mulinlab/OncoDrug/blob/main/static/img/purpose.png" width="361" height="237">
 
 ## Website build guide
-### 1. Clone code using the web URL.
+### 1. Clone code using the web URL
 ```
-python uKIN_pipeline.py --tissue tissue_type --work_dir work_dir
+git clone https://github.com/mulinlab/OncoDrug.git
 ```
-### 1. Clone code using the web URL.
-'''
-git clone https://github.com/SuLab/DrugMechDB.git
-'''
+### 2. Installation environment
+```
+pip install –r ./requirements
+```
+### 3. Run the Script and open the Website
+```
+python ./manager.py
+```
