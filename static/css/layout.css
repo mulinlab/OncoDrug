@@ -1,0 +1,162 @@
+.brand{
+    font-size: 32px;
+}
+
+.nav-link{
+    line-height: 18px;
+    text-align: center;
+}
+
+.nav-link span{
+    font-size: 30px;
+}
+
+.carousel{
+    margin-bottom: 4rem;
+}
+
+.statistics{
+    text-align: center;
+}
+
+.chart{
+    width: 140px;
+    height: 140px;
+    margin:auto;
+    border-radius: 100%;
+}
+
+.main-container{
+    margin-top: 64px;
+}
+
+.bd-main{
+    border-left:1px solid rgba(0,0,0,0.125);
+}
+
+.mycustom-select{
+    border-radius: 4px;
+    border: 1px solid rgba(0,0,0,0.125);
+}
+
+table.dataTable{
+    border-collapse: collapse !important;
+}
+
+.mytable span{
+    font-size: 25px;
+}
+
+.mytable td{
+    padding: 5px;
+}
+
+.footer-head{
+    font-size: 18px;
+    width: 80%;
+    color: #68D391;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #f8fafc;
+}
+
+.head-font{
+    padding-bottom: 10px;
+    border-bottom: 5px solid #68D391;
+}
+
+.b-label{
+    width: 130px;
+    border: none !important;
+}
+
+#synon{
+    color: white;
+    padding: 0 1rem 1.5rem 1rem;
+}
+
+#g-synon{
+    color: white;
+    padding: 0 1rem 1.5rem 1rem;
+}
+
+#d-synon{
+    color: white;
+    padding: 0 1rem 1.5rem 1rem;
+}
+
+#ref{
+    padding: 0 1rem 1.5rem 1rem;
+}
+
+#g-ref{
+    padding: 0 1rem 1.5rem 1rem;
+}
+
+#ppi{
+    width: 734px;
+}
+
+#ppires{
+    margin-bottom:1.5rem;
+}
+
+#g-ppires{
+    margin-bottom:1.5rem;
+}
+
+#ptw{
+    width: 734px;
+}
+
+.pagenotfound{
+    color: #6c757d;
+    height: 500px;
+    padding: 200px 0 0 200px;
+    font-size: 60px;
+    font-weight: bold;
+}
+
+.detail-tag{
+    background-color: #ffebef;
+    color: #451225;
+    padding: 1px 5px;
+    border-radius: 4px;
+}
+
+.qrbtn{
+    border: none;
+    margin: 2px 5px;
+    display: inline-block;
+    background-color: #fff9c2;
+    color: #453411;
+    padding: 1px 5px;
+    border-radius: 4px;
+    text-decoration: none;
+}
+
+.qrbtn:hover{
+    background-color: #ffed4a;
+    color: #453411;
+    text-decoration: none;
+}
+
+.qrbtn-active{
+    background-color: #ffed4a;
+    color: #453411;
+}
+
+#geneinfo{
+    padding-bottom: 30px;
+}
+
+#miRinfo{
+    padding-bottom: 30px;
+}
+
+#pathwayinfo{
+    padding-bottom: 30px;
+}
+
+#druginfo{
+    padding-bottom: 30px;
+}

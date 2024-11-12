@@ -1,0 +1,9 @@
+th, td { white-space: nowrap; }
+div.dataTables_wrapper {
+    width: 70em;
+    margin: 0 auto;
+}
+.scrolledTable{ 
+    overflow-x: 
+    auto; clear:both; 
+}
