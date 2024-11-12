@@ -10,11 +10,11 @@ Combinations of cancer drugs have the potential to overcome resistance, improve 
 ```
 git clone https://github.com/mulinlab/OncoDrug.git
 ```
-### 2. Installation environment
+### 2. Install the required dependencies
 ```
 pip install –r ./requirements
 ```
-### 3. Run the Script and open the Website
+### 3. Generate the Dataset
 ```
 python ./manager.py
 ```
