@@ -18,3 +18,7 @@ pip install –r ./requirements
 ```
 python ./manager.py
 ```
+## Copyright
+Copyright (c) Mulinlab@Tianjin Medical University 2021-2024.
+## Citation
+OncoDrug+, A highly annotated drug combination resource for catalyzing precision combinatorial therapy
